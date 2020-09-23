@@ -46,3 +46,29 @@ So far, we have built up a basic model aiming to beat the performance on the cur
 Over the next few months we will be working with Lindsay, who is a student working under Reza, to assist him in publishing a paper.
 
 In a few months time we will hopefully have a new dataset available, having been made by a PHD student on Reza's team, and we will work on using a real-life dataset to train a model. 
+
+Part 3: 
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=2rCP4CRRO7E&ab_channel=SE7EN13" target="_blank"><img src="http://img.youtube.com/vi/2rCP4CRRO7E&ab_channel=SE7EN13/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+
+
+Part 2: These are some further details about our project
+blahblahblahblahblah
+blahblahblahblahblah
+v interesting
+
+# Contributors
+This project is done in collaboration by the members of the Monash DeepNeuron Microfluidics team. 
+
+Project members:
+* Jared - Project manager
+* Nidhi
+* Sahil
+* Rebekah
+
+# Requirements
+* Python 3
+* PyTorch - a Python deep learning library
+* Numpy
+* Pandas
+
