@@ -34,3 +34,5 @@ This is one place where conflicts may occur (hint - this is when rebases are use
 Microfluidics is a project working in collaboration with the Monash Applied Microfluidics & Bioengineering Lab, to assist in creating deep learning applications to assist with male fertility outcomes.
 
 Our first objective as part of Microfluidics is to create a deep learning computer vision tool, based on a CNN, to assist fertility clinicians with the analysis and selection of sperm cells.
+
+# How it works
