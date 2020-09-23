@@ -37,6 +37,16 @@ Our first objective as part of Microfluidics is to create a deep learning comput
 
 # How it works
 
+Our project has begun by creating a skeleton model in pytorch, using transfer learning, which we are slowly building upon.
+
+# Project Timeline
+
+So far, we have built up a basic model aiming to beat the performance on the current state-of-the-art on our two datasets, SCIAN and HuSHem.
+
+Over the next few months we will be working with Lindsay, who is a student working under Reza, to assist him in publishing a paper.
+
+In a few months time we will hopefully have a new dataset available, having been made by a PHD student on Reza's team, and we will work on using a real-life dataset to train a model. 
+
 Part 3: 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2rCP4CRRO7E&ab_channel=SE7EN13" target="_blank"><img src="http://img.youtube.com/vi/2rCP4CRRO7E&ab_channel=SE7EN13/0.jpg" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
