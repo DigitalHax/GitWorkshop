@@ -36,3 +36,13 @@ Microfluidics is a project working in collaboration with the Monash Applied Micr
 Our first objective as part of Microfluidics is to create a deep learning computer vision tool, based on a CNN, to assist fertility clinicians with the analysis and selection of sperm cells.
 
 # How it works
+
+Our project has begun by creating a skeleton model in pytorch, using transfer learning, which we are slowly building upon.
+
+# Project Timeline
+
+So far, we have built up a basic model aiming to beat the performance on the current state-of-the-art on our two datasets, SCIAN and HuSHem.
+
+Over the next few months we will be working with Lindsay, who is a student working under Reza, to assist him in publishing a paper.
+
+In a few months time we will hopefully have a new dataset available, having been made by a PHD student on Reza's team, and we will work on using a real-life dataset to train a model. 
