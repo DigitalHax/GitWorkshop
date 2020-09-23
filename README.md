@@ -29,6 +29,13 @@ Once you've completed a task make sure to push (`git push`) everything and creat
 Before creating a pull request remember to get the latest changes (`git pull`).
 This is one place where conflicts may occur (hint - this is when rebases are useful).
 
+# Project Description
+
+Microfluidics is a project working in collaboration with the Monash Applied Microfluidics & Bioengineering Lab, to assist in creating deep learning applications to assist with male fertility outcomes.
+
+Our first objective as part of Microfluidics is to create a deep learning computer vision tool, based on a CNN, to assist fertility clinicians with the analysis and selection of sperm cells.
+
+# How it works
 
 Part 3: 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=2rCP4CRRO7E&ab_channel=SE7EN13" target="_blank"><img src="http://img.youtube.com/vi/2rCP4CRRO7E&ab_channel=SE7EN13/0.jpg" 
