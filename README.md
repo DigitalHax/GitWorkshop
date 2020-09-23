@@ -63,7 +63,7 @@ This project is done in collaboration by the members of the Monash DeepNeuron Mi
 Project members:
 * Jared - Project manager
 * Nidhi
-* Sahil
+* Sahil (I was here)
 * Rebekah
 
 # Requirements
